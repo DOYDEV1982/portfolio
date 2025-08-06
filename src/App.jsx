@@ -5,8 +5,16 @@ import AboutPage from "./Pages/AboutPage";
 import SkillPage from "./Pages/SkillPage";
 import ProjectPage from "./Pages/ProjectPage";
 import ContactPage from "./Pages/ContactPage";
+<<<<<<< HEAD
 import Resume from "./components/Resume";
 import ServicePage from "./Pages/ServicePage";
+=======
+import Resume from "./Components/Resume";
+import ServicePage from "./Pages/ServicePage";
+
+
+
+>>>>>>> 9778da243032cf4bc56a3b9174f084ef066c9cb1
 
 
 
