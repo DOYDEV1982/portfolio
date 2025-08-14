@@ -10,3 +10,21 @@
  gap: 20px;
  
 }
+
+@media (max-width: 500px) {
+.copy{
+ margin-top: 20px;
+ margin-left: 0px;
+ 
+}
+
+.socialmedia{
+ margin-top: 20px;
+ display: flex;
+ flex-direction: column;
+ gap: 10px;
+ 
+}
+
+
+}

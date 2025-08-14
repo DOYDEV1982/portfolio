@@ -7,6 +7,7 @@ import ProjectPage from "./Pages/ProjectPage";
 import ContactPage from "./Pages/ContactPage";
 import Resume from "./Components/Resume";
 import ServicePage from "./Pages/ServicePage";
+import "./App.css"
 
 
  function App() {
