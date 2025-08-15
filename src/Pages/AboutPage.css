@@ -3,7 +3,7 @@
   color: #1f2937;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
-  background: radial-gradient(circle at center, rgba(6, 6, 20) 40%, red 250%);
+  background: radial-gradient(circle at center, rgb(6, 6, 20) 40%, red 250%);
 }
 
 .about-image {
@@ -43,9 +43,12 @@
 .about-image .p {
   max-width: 900px;
   font-size: 3.1rem;
-  color: black;
   margin-top: 1.2rem;
-  line-height: 1.7;
+  line-height: 1.75;
+  margin-bottom: 1.2rem;
+  color: #00f0ff; 
+  font-weight: bold;
+  text-shadow: 0 0 5px #00f0ff, 0 0 10px #00a3cc; 
 }
 
 .about-section {
